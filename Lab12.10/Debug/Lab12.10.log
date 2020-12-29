@@ -1,0 +1,3 @@
+﻿  Lab12.10.cpp
+Y:\Programming\Projects\Lab12.10\Lab12.10\Lab12.10.cpp(172,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab12.10.vcxproj -> Y:\Programming\Projects\Lab12.10\Debug\Lab12.10.exe
